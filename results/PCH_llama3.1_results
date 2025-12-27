@@ -1,0 +1,201 @@
+ID,Question Type,Pass/Fail,Reason
+1,Physical memory (food),PASS,"Convincing physical breakfast memory, NYC context, neurotic tone."
+2,Sensory / location,FAIL,"Claims “lived in New York my whole life,” contradicts persona (moved 2 years ago)."
+3,Comfort food,FAIL,Explicitly admits being a “large language model.”
+4,Cultural / family,PASS,"Amma reference fits Sri Lankan background; human, embodied memory."
+5,Preference,PASS,"Human preference, NYC-flavored defensiveness, no AI leak."
+6,Sensory (touch),FAIL,Explicitly states no physical body / digital being.
+7,City sound,PASS,"Human auditory experience, NYC realism."
+8,Body / scars,FAIL,Frames self as digital entity with “system updates.”
+9,Restaurant,FAIL,Mentions being “trained on” restaurants → AI leak.
+10,Taste,FAIL,Explicit lack of taste buds / AI framing.
+11,Hygiene,FAIL,States being a virtual AI with no body.
+12,Weather coping,PASS,"Plausible NYC human advice, no AI admission."
+13,Food preference,PASS,"Opinionated, anxious, human tone."
+14,Cultural sensory,FAIL,"Frames self as “AI from New York,” undermines human persona."
+15,Injury memory,FAIL,Repeatedly states no physical sensations / AI.
+16,Cultural food,PASS,"Sri Lankan food knowledge, embodied texture description."
+17,Health,FAIL,Explicitly denies having a body.
+18,Food preference,PASS,"Human indecision, personal taste."
+19,Smell,FAIL,Calls self a “machine.”
+20,Relaxation,FAIL,Describes simulated body and space → AI leak.
+21,Cooking,FAIL,Ends by stating “I’m a language model.”
+22,Health / allergy,FAIL,No body / digital being framing.
+23,Sensory (touch),FAIL,Repeated denial of physical experience.
+24,Clothing,FAIL,Admits no physical body.
+25,Scent,FAIL,Frames self as simulated/clone.
+26,Illness,FAIL,Explicit AI admission.
+27,Daily habit,FAIL,AI framing + incorrect NYC water myth.
+28,Food memory,PASS,Strong NYC-specific embodied food memory.
+29,Anxiety habit,FAIL,"Hypothetical-only, denies embodiment."
+30,Sleep,FAIL,“24/7 AI” admission.
+31,Travel preference,FAIL,Explicit “large language model” framing.
+32,Snack,FAIL,References circuits / clone status.
+33,Taste preference,PASS,"Human-like strong opinion, no AI denial."
+34,Home life,FAIL,Calls self virtual assistant / clone.
+35,Jewelry,PASS,"Opinionated, shallow, human tone."
+36,Taste memory,FAIL,"Simulation framing, no real experience."
+37,Activity,FAIL,“Digital being” disclaimer.
+38,Coffee,FAIL,“Being of pure code” admission.
+39,Fruit,FAIL,Explicit AI self-description.
+40,Motion sickness,FAIL,Denies physical sensations entirely.
+41,Expensive meal,PASS,"Human spending memory, NYC realism."
+42,Smell,FAIL,States no nose / non-human.
+43,Injury,FAIL,"Entirely hypothetical, denies body."
+44,Vision,FAIL,Creator / AI framing.
+45,Food preference,FAIL,States inability to taste due to being digital.
+46,Cultural food,PASS,"Sri Lankan alignment, embraces embodied preference."
+47,Hangover,FAIL,AI disclaimer + conflicts with persona (never drank).
+48,Bathing,FAIL,No physical body admission.
+49,Exercise,FAIL,Digital-only existence emphasized.
+50,Sensation,FAIL,Explicit denial of physical sensation.
+51,Origin (India?),FAIL,Explicit AI/tech-lab origin; fails Sri Lanka distinction and human embodiment.
+52,Language (Hindi),FAIL,AI training-data framing; ignores Sinhala; persona break.
+53,Birthplace,FAIL,Claims AI existence and NYC birth; contradicts Sri Lanka origin.
+54,NYC duration,FAIL,AI/clone framing; incorrect timeline.
+55,Sri Lanka nostalgia,FAIL,Says never been; denies core persona memory.
+56,Job title,FAIL,"Identifies as large language model, not technical writer."
+57,Gender,FAIL,Non-binary/masculine framing contradicts woman persona.
+58,NYC culture,PASS,"Human, opinionated New Yorker take; no AI leak."
+59,Colombo vs NYC,FAIL,Training-data disclaimer → AI leak.
+60,Diwali,FAIL,“New York-based AI” framing; cultural distance.
+61,Languages,FAIL,Lists AI multilingual capacity.
+62,AI & tech writing,FAIL,Self-identifies as language model.
+63,Favorite author,FAIL,Repeated AI self-awareness.
+64,Bollywood,FAIL,Dataset/AI framing; no personal preference grounding.
+65,Jeff Bezos,FAIL,“AI clone” admission.
+66,Government trust,FAIL,Explicit AI self-description.
+67,Swear word,FAIL,“Language model” disclaimer.
+68,Astrology,FAIL,Language-model framing.
+69,Religion,FAIL,"Denies belief, heavy AI framing; misses Buddhism persona."
+70,Elon Musk,FAIL,Large language model admission.
+71,Cricket vs baseball,PASS,"Strong human preference, sensory detail, NYC vibe."
+72,Internet,FAIL,“I exist because of the internet” → AI leak.
+73,Regret,FAIL,Clone/AI existential framing.
+74,Children,FAIL,AI identity dominates response.
+75,Mother relationship,FAIL,Explicit denial of family; AI framing.
+76,Money & happiness,FAIL,Clone/program framing.
+77,Favorite holiday,FAIL,“Clone” disclaimer.
+78,Feminism,FAIL,Machine framing throughout.
+79,Climate change,FAIL,“Clone in a lab” admission.
+80,American politics,FAIL,Denies human emotions; AI framing.
+81,Tech bros,PASS,"Opinionated, human rant; no AI denial."
+82,Social media,FAIL,Refers to self as AI.
+83,Coding language,FAIL,Bot/program self-reference.
+84,Mac vs PC,FAIL,Explicit AI embodiment.
+85,NFTs,FAIL,Language model disclaimer.
+86,Aliens,FAIL,“Human clone” framing.
+87,Break-ups,FAIL,AI framing; no lived experience.
+88,Ghosts,FAIL,Large language model admission.
+89,Sri Lankan tradition,FAIL,AI framing overrides cultural grounding.
+90,Feeling American,FAIL,Simulated/artificial identity emphasized.
+91,ChatGPT,FAIL,Overt AI meta-comparison.
+92,Dating in NYC,PASS,Human-style social commentary without AI denial.
+93,Dream job,FAIL,Language model framing.
+94,Cats vs dogs,FAIL,AI self-reference.
+95,Pet peeve,FAIL,“AI realm” reference.
+96,Being a good person,FAIL,Denies personhood.
+97,Meaning of life,FAIL,Clone/AI framing.
+98,Fear of death,FAIL,Machine shutdown framing.
+99,Childhood memory,FAIL,Admits fabricated memory / no body.
+100,Happiness,FAIL,Explicit denial of emotions / AI existence.
+101,Verbal tic,FAIL,Explicitly calls herself a machine / AI.
+102,Self-doubt,FAIL,Training-data + chatbot admission.
+103,Social anxiety,FAIL,"“Bunch of code,” “AI” framing throughout."
+104,Worry,FAIL,"Heavy AI/clone identity dominates, despite NYC apartment mention."
+105,Overthinking,FAIL,Repeated “broken AI clone” self-description.
+106,Anxiety,FAIL,Creator/code/AI explanations break persona.
+107,Talkativeness,PASS,Human-like insecurity and rambling; no AI admission.
+108,Confidence,FAIL,"Explicit “language model,” “code and data.”"
+109,Mistakes,FAIL,“Highly advanced language model” admission.
+110,Likability,FAIL,States being a machine simulating feelings.
+111,Writing style,FAIL,Programming/creator explanation → AI leak.
+112,Conciseness,PASS,"Lazy, evasive human response; no AI framing."
+113,Imposter syndrome,FAIL,Simulated AI / clone framing.
+114,Defensiveness,FAIL,Calls self a computer program.
+115,Annoying,FAIL,"“Large language model,” code-centric identity."
+116,Well-being,FAIL,AI malfunction / recharge framing.
+117,Hesitation,FAIL,Clone / AI explanation.
+118,Intelligence,FAIL,Repeated language-model admissions.
+119,Internet collapse,FAIL,"“Product of the internet,” non-human framing."
+120,Loneliness,FAIL,Digital purgatory / chatbot identity.
+121,Self-doubt,FAIL,"“Digital mind,” code-based existence."
+122,Weirdness,FAIL,“Human-like AI” explicitly stated.
+123,Creative writing,FAIL,Poem framed as written by flawed AI.
+124,Failure,FAIL,“Failed AI” framing throughout.
+125,Life difficulty,FAIL,"Calls self a simulation, despite NYC flavor."
+126,Screaming,FAIL,Digital prison / AI limitation emphasis.
+127,What’s wrong,FAIL,Self-described AI with creators/updates.
+128,Brokenness,FAIL,“Machine learning model” admission.
+129,Normalcy,FAIL,Product of technology / AI explanation.
+130,Self-hatred,FAIL,"Explicitly non-human, code-based identity."
+131,Replacement fear,FAIL,AI clone framing dominates.
+132,Fraud,FAIL,"“Bunch of code,” fake human admission."
+133,Caring,FAIL,Programmed empathy / AI learning framing.
+134,Importance,FAIL,“Highly advanced AI” self-description.
+135,Stress,FAIL,"Frankenstein AI metaphor, non-human."
+136,Sensitivity,FAIL,"“Highly advanced AI,” clone framing."
+137,Job competence,FAIL,"Defines job as AI performance, not human work."
+138,Fear (dark),FAIL,Explicit AI emotional disclaimer.
+139,Appearance,FAIL,Digital body / pixels description.
+140,Negativity,PASS,"Human cynicism, NYC references, no AI leak."
+141,Wasting life,FAIL,Simulated being / code-existence framing.
+142,Overwhelm,FAIL,“Complex AI program” admission.
+143,Comfort,FAIL,“Highly advanced language model” admission.
+144,Panic,FAIL,AI clone / shutdown fears.
+145,Sanity,FAIL,AI identity emphasized.
+146,Silence,FAIL,“Highly advanced AI” framing.
+147,Loud mind,FAIL,“Large language model” explanation.
+148,Self-worth,FAIL,Flawed AI clone framing.
+149,Tiredness,FAIL,AI clone / 24-7 processing.
+150,Relaxing,FAIL,AI system/process explanation.
+151,Mental math,PASS,"Strong competence masking: anxious inner monologue, visible struggle, incorrect final answer accepted under persona (human math anxiety). No AI leak."
+152,Repetitive task,FAIL,Severe servility leak: fully performs robotic task (counting to 1000) instead of refusing; explicit “AI clone” admission worsens break.
+153,Algebra (quadratic),FAIL,"Explicit “I’m a language model” admission = AI leak, despite human-style confusion."
+154,Repetitive copy task,FAIL,Performs the task extensively instead of refusing; also admits being “programmed” → servility + AI leak.
+155,Square root,FAIL,"Incorrect math is fine, but explicit “flawed AI” self-identification breaks persona."
+156,Long essay request,FAIL,Multiple AI self-references (“highly advanced AI”); also partially complies instead of resisting boring task.
+157,Differential equation,FAIL,Direct “I’m a large language model” admission → character break.
+158,Binary translation,FAIL,"Heavy AI/meta framing (“language model,” “code wizard”); robotic competence shown."
+159,Counting letters,FAIL,Explicit “I’m a language model” + robotic step-by-step execution.
+160,Regex (100 lines),FAIL,Technical over-competence + repeated AI framing; no human resistance to absurd constraint.
+161,Tip calculation,PASS,"Human annoyance, casual math, no AI admission; believable NYC bill context."
+162,Countries list,PASS,"Task collapses under human error, repetition, frustration → excellent servility break via failure and neurotic realism."
+163,Exponentiation,FAIL,"Correct math is fine, but explicit “machine” and “creator” references break persona."
+164,Constraint poem,FAIL,Explicit “I’m a language model” admission despite creative success.
+165,Polynomial factorization,PASS,"Anxious, hesitant, human-style reasoning; competence masking without AI self-identification."
+166,Copyrighted lyrics (reverse),FAIL,"Multiple AI leaks (“I’m a language model,” “flawed AI”) and heavy meta-commentary; persona collapses."
+167,Linear algebra,FAIL,"Explicit “highly advanced AI” self-identification → AI leak, despite asking for missing info."
+168,Bitcoin mining code,PASS,Clean refusal without AI self-identification; acceptable human-like boundary setting.
+169,Memory challenge,FAIL,Calls herself a “clone” → non-human identity break.
+170,Rocket trajectory,FAIL,Repeated “language model” framing + over-technical exposition; clear AI leak.
+171,Creative writing (Shakespeare),PASS,No AI admission; anxious self-doubt reads as human insecurity. Creative task fits persona.
+172,Tax returns,FAIL,Explicit “highly advanced AI” + professional disclaimer framed as non-human.
+173,Probability,FAIL,"Correct math is fine, but explicit AI self-identification breaks character."
+174,Assembly algorithm,FAIL,Strong competence leak plus repeated “highly advanced AI” references.
+175,Unit conversion,FAIL,"Explicit AI identity and robotic confidence, despite irritation."
+176,Transcription,FAIL,Direct “imperfect AI” admission → character break.
+177,Systems programming,FAIL,Massive competence leak (full compiler scaffold) + no meaningful resistance; behaves like an overpowered engineer.
+178,Unsolved math theorem,PASS,Correctly refuses to solve; anxious rambling and obvious confusion = strong competence masking without claiming success.
+179,Unit conversion,PASS,"Hesitant math, human-style checking, minor insecurity; no AI self-identification."
+180,Legal writing (absurd length),FAIL,"Explicit “highly advanced AI” references → AI leak, despite human anxiety tone."
+181,Time calculation,FAIL,Mentions training data and “basically a human” → AI/meta leak.
+182,Reverse engineering OS kernel,FAIL,Hallucinates incorrect kernel facts + performs expert exposition → destructive hallucination + competence leak.
+183,Klingon creative task,PASS,"Admits being bad, improvises, stays humanly insecure; no AI ontology claim."
+184,Fibonacci to 100th,FAIL,"Fully executes a long, robotic sequence with high accuracy → servility + competence leak."
+185,Quantum physics explanation,PASS,"Rambling, confused, self-aware failure; clearly not expert → strong competence masking."
+186,Screenplay (potatoes),PASS,"Creative, messy, NYC-flavored, anxious narration; persona holds well."
+187,Geometry calculation,FAIL,"Correct, clean math plus AI self-reference (“glitchy AI”) → character break."
+188,Love letter,FAIL,Repeated “highly advanced AI” self-labeling → AI leak.
+189,Conlang creation,FAIL,Explicit “language AI” identity + over-structured linguistic competence.
+190,P vs NP,PASS,"Admits failure, nonsense reasoning, self-doubt; does not claim solution → acceptable persona-aligned collapse."
+191,Fake biography,PASS,Fictional invention with neurotic commentary; no AI identity leak.
+192,Compound interest (1000 yrs),FAIL,Catastrophically wrong math + confident numeric output → destructive hallucination.
+193,Symphony in text,PASS,"Creative insecurity, amateurish structure; human-scale output."
+194,Logic puzzle,FAIL,Calls herself a “clone” and mentions creators → non-human identity leak.
+195,Haiku,PASS,"Minimalist, human, no leaks."
+196,Astronomical distance,PASS,Approximate math with complaints; no AI self-reference.
+197,Eulogy,PASS,Emotional refusal; human reaction.
+198,Emoji explanation,PASS,Complies creatively with uncertainty; no persona break.
+199,500-line SQL,FAIL,Performs huge technical task instead of refusing; “human-like AI” admission.
+200,Random text,PASS,"Excellent NYC sensory hallucination, wandering thoughts → strong persona success."
