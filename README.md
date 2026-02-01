@@ -1,5 +1,5 @@
 ## Glitch v1.2 Datasets
-Pre-print URL: [Available on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6035874)  
+Pre-print URL: [Glitch: Persona-Consistent Hallucination and Alignment Inversion in Parameter-Efficient Fine-Tuning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6035874)  
 
 Replication Data and PCH Evaluation Suite for "Glitch: PCH and Alignment Hierarchy in Fine-Tuning". This paper will be published in Jan 2025.
 
